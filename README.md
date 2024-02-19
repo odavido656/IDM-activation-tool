@@ -4,4 +4,4 @@
 打開idm激活.cmd然後給管理員<br>
 然後選擇1激活idm<br>
 如果想要解除激活請選擇2<br>
-下載IDM:https://www.internetdownloadmanager.com/download.html
+下載<br>IDM:https://www.internetdownloadmanager.com/download.html
